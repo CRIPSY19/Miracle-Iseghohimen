@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CRIPSY19
-- 👀 I’m interested in Web develeopment
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on learning better with coding
+- 👋 Hi, I’m MIE 
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently working on my Data Portfolio
+- 💞️ I’m looking to collaborate on learning better with Data
 - I'm on the lookout for internships to learn on the job
 - 📫 How to reach me iseghohimenmiracle@gmail.com
 
